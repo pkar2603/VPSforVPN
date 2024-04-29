@@ -5,7 +5,7 @@ VPSforVPN offers competitively priced VPS services across Europe and the USA, ca
 
 ![image](https://github.com/pkar2603/VPSforVPN/assets/167745247/369ec505-40c5-4149-b124-c80c9b192bc8)
 
-## [VPSforVPN Official Website Address]
+## VPSforVPN Official Website Address
 
 [https://www.vpsforvpn.com/](https://vpsforvpn.com/clients/aff.php?aff=43)
 
